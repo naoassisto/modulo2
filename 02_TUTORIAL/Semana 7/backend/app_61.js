@@ -1,9 +1,3 @@
-
-function myFunction() {
-  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
-}
-
-
 const express = require('express'); 
 const app = express();
 
@@ -11,6 +5,12 @@ const hostname = '127.0.0.1';
 const port = 3071;
 const sqlite3 = require('sqlite3').verbose();
 const DBPATH = 'dbUser.db';
+
+const bodyParser = require('body-parser');
+const urlencodedParser = bodyParser.urlencoded({ extended: false })
+
+app.use(express.static("../frontend/"));
+
 app.use(express.json());
 
 
