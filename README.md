@@ -16,7 +16,8 @@ Minhas entregas estão definidas aqui:
 ## Obrigatórios
 <a href="https://github.com/Intelihub/Template_Aluno/blob/main/03_EX_OBRIGATORIOS/Coloque%20aqui%20entregas%20de%20exerc%C3%ADcios%20obrigat%C3%B3rios.rtf"> 19/04/2022 - Entrega 1 </a>
 <br>
-<a href=" https://github.com/naoassisto/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%205/Exercicios"> 21/06/2022 - Resolução de problemas com algoritmos - semana 5 </a>
+
+<a href="https://github.com/naoassisto/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%205/Exercicios"> 21/06/2022 - Resolução de problemas com algoritmos - semana 5 </a>
 <br>
 <a href="https://github.com/naoassisto/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%207"> 21/06/2022 - Resolução de problemas com algoritmos - semana 7 </a>
 <br>
