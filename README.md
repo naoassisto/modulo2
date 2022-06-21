@@ -3,6 +3,7 @@ Minhas entregas estão definidas aqui:
 ## Auto Estudo
 ## Entregas Obrigatórias
 <a href="https://github.com/Intelihub/Template_Aluno/blob/main/02_AUT_EST_ENTREGA/Coloque%20aqui%20as%20entregas%20do%20seu%20auto%20estudo.rtf"> 19/04/2022 - Entrega 1 </a>
+<br>
 <a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 4 </a> (Atualize seu currículo profissional incluindo uma linha via js com jquery)
 <br>
 <a href=""> 21/06/2022 - Exercício de personalização da Etapa 5 </a> (Crie o banco de dados com as informações do seu currículo e faça uma chamada get que mostre ao menos um registro do banco criado)
