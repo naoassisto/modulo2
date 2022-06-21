@@ -33,13 +33,13 @@ Minhas entregas estão definidas aqui:
 <br>
 <a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%204">  - Exercício de personalização da Etapa 3 </a> - Entregue: 04/05/2022 (Atualize seu currículo profissional incluindo uma linha via js)
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 4 - Entregue</a> (Atualize seu currículo profissional incluindo uma linha via js com jquery)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curriculo"> - Exercício de personalização da Etapa 4 </a> - Entregue: (Atualize seu currículo profissional incluindo uma linha via js com jquery)
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%206/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 5 - Entregue:21/06/2022 </a> (Crie o banco de dados com as informações do seu currículo e faça uma chamada get que mostre ao menos um registro do banco criado)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%206/Curriculo"> - Exercício de personalização da Etapa 5 </a> - Entregue: 21/06/2022 (Crie o banco de dados com as informações do seu currículo e faça uma chamada get que mostre ao menos um registro do banco criado)
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%207/Curriculo"> - Exercício de personalização da Etapa 6 - Entregue:21/06/2022  </a> (Crie todos os endpoints para CRUD para o projeto do seu currículo)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%207/Curriculo"> - Exercício de personalização da Etapa 6  </a> - Entregue: 21/06/2022 (Crie todos os endpoints para CRUD para o projeto do seu currículo)
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%208/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 7 - Entregue:21/06/2022 </a> (Atualize seu projeto individual do seu currículo profissional para atualizar a página dinamicamente com o CRUD criado na etapa anterior)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%208/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 7 </a>  - Entregue:21/06/2022 (Atualize seu projeto individual do seu currículo profissional para atualizar a página dinamicamente com o CRUD criado na etapa anterior)
 <br>
 
 ## Exercicios Obrigatórios
