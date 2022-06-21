@@ -27,7 +27,8 @@ Minhas entregas estão definidas aqui:
 <a href="https://github.com/Intelihub/Template_Aluno/blob/main/02_AUT_EST_ENTREGA/Coloque%20aqui%20as%20entregas%20do%20seu%20auto%20estudo.rtf"> 19/04/2022 -
 </a>
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%202"> - Exercício de personalização da Etapa 1  </a>  - Entregue: 27/04/2022 (Crie seu currículo profissional em uma página HTML)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%202"> - Exercício de personalização da Etapa 1  </a>  - Entregue: 27/04/2022 (Crie seu currículo profissional em uma página HTML) 
+     - Criar pagina com header e body, com: titulo, div's, paragrafos e etc.
 <br>
 <a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%203">  - Exercício de personalização da Etapa 2 </a> - Entregue: 27/04/2022 (Atualize seu currículo profissional incluindo css)
 <br>
@@ -39,7 +40,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%207/Curriculo"> - Exercício de personalização da Etapa 6  </a> - Entregue: 21/06/2022 (Crie todos os endpoints para CRUD para o projeto do seu currículo)
 <br>
-<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%208/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 7 </a>  - Entregue:21/06/2022 (Atualize seu projeto individual do seu currículo profissional para atualizar a página dinamicamente com o CRUD criado na etapa anterior)
+<a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%208/Curriculo"> - Exercício de personalização da Etapa 7 </a>  - Entregue: 21/06/2022 (Atualize seu projeto individual do seu currículo profissional para atualizar a página dinamicamente com o CRUD criado na etapa anterior)
 <br>
 
 ## Exercicios Obrigatórios
