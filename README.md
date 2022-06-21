@@ -1,6 +1,7 @@
 # Stefano M Tinelli
 Minhas entregas estão definidas aqui:
 ## Auto Estudo
+## Entregas Obrigatórias
 <a href="https://github.com/Intelihub/Template_Aluno/blob/main/02_AUT_EST_ENTREGA/Coloque%20aqui%20as%20entregas%20do%20seu%20auto%20estudo.rtf"> 19/04/2022 - Entrega 1 </a>
 <a href="https://github.com/naoassisto/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curriculo"> 21/06/2022 - Exercício de personalização da Etapa 4 </a> (Atualize seu currículo profissional incluindo uma linha via js com jquery)
 <br>
@@ -13,7 +14,7 @@ Minhas entregas estão definidas aqui:
 <a href=""> 21/06/2022 - </a>
 <br>
 
-## Obrigatórios
+## Exercicios Obrigatórios
 <a href="https://github.com/Intelihub/Template_Aluno/blob/main/03_EX_OBRIGATORIOS/Coloque%20aqui%20entregas%20de%20exerc%C3%ADcios%20obrigat%C3%B3rios.rtf"> 19/04/2022 - Entrega 1 </a>
 <br>
 
