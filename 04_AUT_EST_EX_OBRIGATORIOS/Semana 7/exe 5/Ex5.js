@@ -8,7 +8,7 @@ function generarTabela () { //func gera tabela
    
 }
 
-function calcular() { //func para calcular os valores requisitados
+function calc() { //func para calcular os valores requisitados
 
     let valor = parseInt(document.getElementById("alunos").value); //determina var " valor" como o numero de alunos
     var trabalhos = 0; 

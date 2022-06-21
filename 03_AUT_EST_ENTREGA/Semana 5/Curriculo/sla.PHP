@@ -1,4 +1,4 @@
-$output = ''; 
+<!-- $output = ''; 
 $search = mysqli_query ($link,"SELECT * FROM curriculo ORDER BY id;"); 
 while($data = mysqli_fetch_array($search)) { 
     $output .= '
@@ -12,4 +12,4 @@ while($data = mysqli_fetch_array($search)) {
     </tr>
     '; 
 }
-echo $output;
+echo $output; -->
