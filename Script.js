@@ -45,7 +45,7 @@ app.use(express.urlencoded({
   extended: true
 }))
 
-app.listen(proces.env.PORT, () => {
+app.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}.html`); // printa no console
 });
 
