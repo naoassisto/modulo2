@@ -1,16 +1,5 @@
 //bilybily
 
-
-/*
-========================================================================================
-//                      IMPLEMENTAÇÃO FUNÇÃO JQUERY                                   //
-========================================================================================
-*/
-
-function myFunction() {
-  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
-}
-
 /*
 ========================================================================================
 //                                DATABASE                                            //
@@ -45,7 +34,7 @@ app.use(express.urlencoded({
   extended: true
 }))
 
-app.listen(port, hostname, () => {
+app.listen(proces.env.PORT, () => {
   console.log(`Server running at http://${hostname}:${port}.html`); // printa no console
 });
 
@@ -131,6 +120,16 @@ app.post("/curri.db", (req, res) => { //Método Post, pega os campos selecionado
 
 
 //app.listen(3000, ()=>console.log("supostamente funciona"))
+
+/*
+========================================================================================
+//                      IMPLEMENTAÇÃO FUNÇÃO JQUERY                                   //
+========================================================================================
+*/
+
+function myFunction() {
+  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
+}
 
 
 /*

@@ -1,16 +1,4 @@
 
-
-
-/*
-========================================================================================
-//                      IMPLEMENTAÇÃO FUNÇÃO JQUERY                                   //
-========================================================================================
-*/
-
-function myFunction() {
-  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
-}
-
 /*
 ========================================================================================
 //                                DATABASE                                            //
@@ -27,9 +15,9 @@ const port = 3022; //numero da porta
 var sqlite3 = require('sqlite3').verbose();
 var rateLimit = require("express-rate-limit");
 var bodyParser = require('body-parser') //trabalha sob "req.body"
-var insert = 'INSERT INTO curriculo (formacao, experiencia, idiomas) VALUES (?,?,?)';
-var get = 'SELECT * FROM curriculo';
-var delet = "DELETE FROM curriculo WHERE id= '" + req.body.id + "'";
+//var insert = 'INSERT INTO curriculo (formacao, experiencia, idiomas) VALUES (?,?,?)';
+//var get = 'SELECT * FROM curriculo';
+//var delet = "DELETE FROM curriculo WHERE id= '" + req.body.id + "'";
 
 
 app.use(express.static("../Front/"));
@@ -59,6 +47,21 @@ app.listen(proces.env.PORT, () => {
 // });
 
 module.exports = db
+
+
+app.get('/curri', (req, res) => {
+	res.statusCode = 200;
+	res.setHeader('Access-Control-Allow-Origin', '*'); // Isso é importante para evitar o erro de CORS
+	var db = new sqlite3.Database(DBPATH); // Abre o banco
+  var sql = 'SELECT * FROM tbUser ORDER BY title COLLATE NOCASE';
+	db.all(sql, [],  (err, rows ) => {
+		if (err) {
+		    throw err;
+		}
+		res.json(rows);
+	});
+	db.close(); // Fecha o banco
+
 
 
 //createTable();
@@ -132,15 +135,22 @@ app.post("/curri.db", (req, res) => { //Método Post, pega os campos selecionado
 
 //app.listen(3000, ()=>console.log("supostamente funciona"))
 
+/*
+========================================================================================
+//                      IMPLEMENTAÇÃO FUNÇÃO JQUERY                                   //
+========================================================================================
+*/
+
+function myFunction() {
+  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
+}
+
 
 /*
 ========================================================================================
 //                            FUNÇÕES AJAX                                            //
 ========================================================================================
 */
-
-//////////////////////////////
-
 
   $(document).ready(function(){
     function fetch_data(){
@@ -154,4 +164,14 @@ app.post("/curri.db", (req, res) => { //Método Post, pega os campos selecionado
     }
     fetch_data();
   });
+
+  /*
+========================================================================================
+//                      IMPLEMENTAÇÃO FUNÇÃO JQUERY                                   //
+========================================================================================
+*/
+
+function myFunction() {
+  document.getElementById("botao").innerHTML = "Obrigado por visitar meu curriculo";
+}
 
