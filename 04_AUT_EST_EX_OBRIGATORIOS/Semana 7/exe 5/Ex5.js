@@ -1,4 +1,4 @@
-function generarTabela () { //func gera tabela 
+function gerarTabela () { //func gera tabela 
     let valor = parseInt(document.getElementById("alunos").value); //determina let valor
     var celula = "";
     for ( i = 0 ; i<valor ; i++ ){ // determina situação valor maior que 0
